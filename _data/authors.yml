@@ -366,4 +366,13 @@ viktor-mucha:
   bio: "Viktor Mucha ist Senior Software Engineer und arbeitet seit 8 Jahren bei adesso in der LOB Lottery. Sein Schwerpunkt liegt in der Konzeption und Entwicklung von Change Requests der Software-Lösung in|FOCUS in Java."
   avatar_url: /assets/images/avatars/viktor-mucha.jpg
   github: https://github.com/viktor-mucha
+
+kaythielmann:
+  first_name: Kay
+  last_name: Thielmann
+  github_username: kthielma
+  email: Kay.Thielmann@adesso.de
+  bio: "Kay Thielmann arbeitet als Software Architect bei Adesso in Dortmund."
+  avatar_url: /assets/images/avatars/kaythielmann.jpg
+  github: https://github.com/kthielma
   
